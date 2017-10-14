@@ -1,0 +1,21 @@
+{
+  "name": "d3-jsx",
+  "version": "1.0.0",
+  "description": "A d3 plug-in to use JSX for data visualizations",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Kidwell (kidwell.bill@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-jsx": "^2.0.0",
+    "babel-preset-env": "^1.6.0",
+    "html-webpack-plugin": "^2.30.1"
+  }
+}
