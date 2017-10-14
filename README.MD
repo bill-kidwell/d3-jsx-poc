@@ -1,12 +1,12 @@
 # D3 with JSX
 ## A Proof of Concept
 
-> You can read this article here.
+> You can read this article [here](https://medium.com/@billkidwell/d3-with-jsx-9f7afcbef0b3).
 
 > To run this project...
 > ```bash
->git clone 
->cd 
+>git clone https://github.com/bill-kidwell/d3-jsx-poc
+>cd d3-jsx-poc
 >npm install
 >npm start
 > ```
