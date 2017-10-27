@@ -3,7 +3,7 @@
 
 > You can read this article [here](https://medium.com/@billkidwell/d3-with-jsx-9f7afcbef0b3).
 
-**If you like this article, you might want to follow our implementation @d3-jsx
+**If you like this article, you might want to follow our implementation [d3-jsx](https://github.com/d3-jsx/d3-jsx)**
 
 > To run this project...
 > ```bash
