@@ -3,6 +3,8 @@
 
 > You can read this article [here](https://medium.com/@billkidwell/d3-with-jsx-9f7afcbef0b3).
 
+**If you like this article, you might want to follow our implementation @d3-jsx
+
 > To run this project...
 > ```bash
 >git clone https://github.com/bill-kidwell/d3-jsx-poc
